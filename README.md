@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrklouie
 - 👀 I’m interested in Web Developing specifically front-end.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me twitter.com/mrklouieeee
 
 <!---
