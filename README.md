@@ -18,6 +18,6 @@
 
 **Tools I work upon:**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,expressjs,mongodb,aws,git,github,vscode,figma,xd,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,expressjs,mongodb,aws,vercel,git,github,vscode,figma,xd,linux" />
 
 ---
