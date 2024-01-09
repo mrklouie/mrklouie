@@ -1,6 +1,22 @@
-## ![banner](https://github.com/mrklouie/mrklouie/assets/99398459/f31504a6-bb75-429d-9661-a6553ff2be1c)
-## Socials:
+## ![banner](https://github.com/mrklouie/mrklouie/assets/99398459/23a4ed02-f8a3-4505-b55f-b994f1181fed)
 
-![twitter button](https://github.com/mrklouie/mrklouie/assets/99398459/9345b439-a360-4a94-8fd7-f798c61902f5) ![facebook button](https://github.com/mrklouie/mrklouie/assets/99398459/b9efff59-5afe-4722-815f-2f5fc46d0532)
+**Socials:**
 
+![twitter](https://github.com/mrklouie/mrklouie/assets/99398459/6cd0c9bf-a544-494e-8f5f-89d5dfb5df27) ![ig](https://github.com/mrklouie/mrklouie/assets/99398459/9b785835-f3ac-4941-b9c7-bbf99e27a7a9) ![facebook](https://github.com/mrklouie/mrklouie/assets/99398459/733f0ebd-5450-4fa7-889b-721c1a2f8190)
 
+**How to reach me:**
+
+![viber](https://github.com/mrklouie/mrklouie/assets/99398459/a0584d0c-5a18-4889-9471-3ed2fd1729b0) ![email](https://github.com/mrklouie/mrklouie/assets/99398459/606db66a-3d62-4577-9a3e-6b8a6cc7edf3)
+
+**Current Status:**
+
+- 🧑‍💻 Freelance Web Developer
+- 🧑‍🎓 Fresh Graduate (Bachelor of Science in Information Technology)
+
+---
+
+**Tools I work upon:**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,expressjs,mongodb,aws,git,github,vscode,figma,xd,linux" />
+
+---
