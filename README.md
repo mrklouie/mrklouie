@@ -5,7 +5,7 @@
 
 [![Button Icon]][Link]
 
-[<kbd> <br> Link <br> </kbd>][[Link](https://www.mrklouie.tech)]
+[<kbd> <br> Link <br> </kbd>][[https://www.mrklouie.tech]]
 
 **Socials:**
 
