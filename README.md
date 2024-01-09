@@ -5,7 +5,7 @@
 
 [![Button Icon]][Link]
 
-[<kbd> <br> Title <br> </kbd>]
+<kbd> <br> Title <br> </kbd>
 
 **Socials:**
 
