@@ -5,8 +5,6 @@
 
 [![Button Example]][Link]]
 
-[<kbd> <br> Title <br> </kbd>](https://mrklouie.tech)
-
 
 **Socials:**
 
