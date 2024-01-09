@@ -3,7 +3,7 @@
 
 **Socials:**
 
-[![[Button Example](https://img.shields.io/badge/Title-37a779?style=for-the-badge)]][https://mrklouie.tech]
+![[Button Example](https://img.shields.io/badge/Title-37a779?style=for-the-badge)]
 
 [<kbd> <br> Title <br> </kbd>](https://mrklouie.tech)
 
