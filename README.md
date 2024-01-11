@@ -17,6 +17,6 @@
 
 ## Tools I work upon [2022]:
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,jquery" />
 
 ---
