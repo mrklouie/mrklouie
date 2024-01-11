@@ -15,7 +15,7 @@
 
 ---
 
-## Tools I work upon [2022]:
+## Tools I work upon [2024]:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,nodejs,expressjs,mongodb,aws,vercel,git,github,vscode,figma,xd,linux" />
 
