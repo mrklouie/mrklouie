@@ -10,6 +10,7 @@
 
 ## Current Status:
 
+- 🧑‍💻 Rate Programmer
 - 🧑‍💻 Freelance Web Developer
 - 🧑‍🎓 Fresh Graduate (Bachelor of Science in Information Technology)
 
