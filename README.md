@@ -10,14 +10,14 @@
 
 ## Current Status:
 
-- 🧑‍💻 Rate Programmer
+- 🧑‍💻 Developer at Quadrant Information Services
 - 🧑‍💻 Freelance Web Developer
-- 🧑‍🎓 Fresh Graduate (Bachelor of Science in Information Technology)
+- 🧑‍🎓 IT Graduate (Bachelor of Science in Information Technology)
 
 ---
 
 ## Tools I work upon [2024]:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,react,redux,nodejs,expressjs,mongodb,aws,vercel,git,github,vscode,figma,xd,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,react,typescript,nextjs,redux,nodejs,expressjs,mongodb,aws,vercel,git,github,vscode,figma,xd,linux" />
 
 ---
